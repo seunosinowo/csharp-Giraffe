@@ -1,0 +1,62 @@
+## C# typical ignores
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.userprefs
+
+# Build results
+[Bb]in/
+[Oo]bj/
+Debug/
+Release/
+
+# Visual Studio temporary files, cache, and logs
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.log
+*.tlog
+
+# Rider
+/.idea/
+
+# NuGet
+# NuGet Packages
+packages/
+*.nupkg
+# NuGet v3's project.json files
+project.lock.json
+
+# MSTest test results
+TestResults/
+*.trx
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Visual Studio code coverage
+*.coverage
+*.coveragexml
+
+# Others
+*.vsix
+*.db
+
+# Dotnet publish
+/publish/
+
+# Rider caches
+.idea/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# VS Code workspace files
+.vscode/
