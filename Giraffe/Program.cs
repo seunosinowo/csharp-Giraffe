@@ -8,7 +8,8 @@ namespace Giraffe
 {
     internal class Program
     {
-        static void Main(string[] args)
+        
+        public static void First()
         {
             Console.WriteLine("Hello world");
             Console.WriteLine();
@@ -72,6 +73,9 @@ namespace Giraffe
             Console.WriteLine(Math.Sqrt(36));
             Console.WriteLine(Math.Max(4, 90));
             Console.WriteLine(Math.Round(5.4));
+
+            //Getting User Inputs
+
 
 
             Console.ReadLine();
